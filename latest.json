@@ -1,0 +1,9 @@
+{
+  "schema": "luobozi-release-feed/1",
+  "repository": "jk1420/win11_desktop_scheduled",
+  "latest": {
+    "version": "0.1.0-scorefix.20261017-r47",
+    "tag": "v0.1.0-scorefix.20261017-r47",
+    "release_url": "https://github.com/jk1420/win11_desktop_scheduled/releases/tag/v0.1.0-scorefix.20261017-r47"
+  }
+}
